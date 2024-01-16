@@ -1,0 +1,31 @@
+@media (max-width: 450px) {
+    html {
+        font-size: 10px;
+    }
+
+    .container {
+        width: 180px;
+        height: 300px;
+        margin: auto;
+    }
+
+    .imagem {
+        height: 100px;
+        border-radius: 20px;
+    }
+
+    .box {
+        padding: 15px;
+        margin-top: -10px;
+    }
+
+    .learning {
+        width: 50px;
+        height: 19px;
+    }
+
+    #html {
+        font-size: 13px;
+    }
+}
+
